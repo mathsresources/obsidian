@@ -1,10 +1,16 @@
+---
+tags:
+  - square_numbers
+  - projecteuler
+  - while_loop
+  - sequences
+---
 Project Euler: [website](https://projecteuler.net)
-
-Problem:
+# Problem:
 
 Find the sum of all the squares of odd numbers from 1 to 425000
 
-Solution:
+# Solution:
 
 ```
 n = 1  
@@ -16,7 +22,7 @@ while (n <= m):
 print(sum(numbers))
 ```
 
-Commentary:
+# Commentary:
 
 Needed when creating an account. 
 Adapted from the solution to [[0001 - Multiples of Three and Five]].

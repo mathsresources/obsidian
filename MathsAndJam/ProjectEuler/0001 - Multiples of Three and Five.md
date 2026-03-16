@@ -1,8 +1,16 @@
-Problem:
+---
+tags:
+  - projecteuler
+  - divisibility
+  - while_loop
+  - multiples
+  - sequences
+---
+# Problem:
 
 If we list all the natural numbers below $10$ that are multiples of $3$ or $5$, we get $3, 5, 6$ and $9$. The sum of these multiples is $23$. Find the sum of all the multiples of $3$ or $5$ below $1000$.
 
-Solution:
+# Solution: 233168
 
 ```
 div=[3,5]  
@@ -19,8 +27,9 @@ while(n<=m):
 print(sum(numbers))
 ```
 
-Commentary:
+# Commentary:
 
 I tried to do this without making use of any knowledge of the sums of arithmetic series, or even just natural numbers. Reading further on suggested approaches, in future I will make more use of maths rather than aiming for one based solely on coding a brute force approach.
 
-Date: Sunday 15th March, 2026
+
+
