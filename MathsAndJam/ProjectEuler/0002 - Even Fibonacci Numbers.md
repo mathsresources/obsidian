@@ -1,10 +1,13 @@
 ---
+date: 2026-03-16
 tags:
+  - projecteuler
   - sequences
   - fibonacci
   - while_loop
   - discrete_calculus
   - forward_difference
+eulertime: 0.000
 ---
 # Problem:
 
@@ -15,24 +18,17 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 # Solution: 4613732
 
 ```
-fib = [0]  
-  
-a, b = 0, 1  
-  
-n = 4000000  
-  
-while b < n:  
-  
-    fib.append(b)  
-  
-    a, b = b, a+b  
-  
-print(fib)  
-  
-fibevens = fib[3::3]  
-  
-print(fibevens)  
-print(sum(fibevens))
+def euler0002(first=0,second=1,n=4000000):  
+    fib = [first]  
+    a, b = first, second  
+    while b < n:  
+        fib.append(b)  
+        a, b = b, a+b  
+    print(fib)  
+    fibevens = fib[3::3]  
+    print(fibevens)  
+    print(sum(fibevens))  
+euler0002()
 ```
 
 
