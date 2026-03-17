@@ -8,41 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3a122a139fb5980f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "81550e273cac2c28",
+            "id": "90919bd3e6e4bf7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProjectEuler/0001 - Multiples of Three and Five.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "0001 - Multiples of Three and Five"
-            }
-          },
-          {
-            "id": "83139038179dd7d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Albums/Spanish Love Songs - A Brief Intermission in the Flattening of Time EP.md",
+                "file": "ProjectEuler/0000 - Registration Question.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Spanish Love Songs - A Brief Intermission in the Flattening of Time EP"
+              "title": "0000 - Registration Question"
             }
           }
         ]
@@ -77,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Albums/Spanish Love Songs - A Brief Intermission in the Flattening of Time EP.md",
+                "file": "ProjectEuler/0000 - Registration Question.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Spanish Love Songs - A Brief Intermission in the Flattening of Time EP"
+              "title": "Outline of 0000 - Registration Question"
             }
           },
           {
@@ -193,13 +169,15 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "ProjectEuler/0000 - Registration Question.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 0000 - Registration Question"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -216,11 +194,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "3a122a139fb5980f",
+  "active": "e14702ebeb145f0f",
   "lastOpenFiles": [
     "ProjectEuler/0001 - Multiples of Three and Five.md",
     "ProjectEuler/0002 - Even Fibonacci Numbers.md",
-    "ProjectEuler/0000 - Project Euler Starter Question.md",
+    "Drums/Drums - Kings of Leon - Use Somebody.pdf",
+    "Drums/Kings of Leon - Use Somebody.md",
+    "Albums/Radiohead - A Moon Shaped Pool.md",
+    "ProjectEuler/0000 - Registration Question.md",
+    "ProjectEuler/0003 - Highest Prime Factor.md",
     "Albums/Spanish Love Songs - A Brief Intermission in the Flattening of Time EP.md",
     "2026-03-16.md",
     "Welcome.md",

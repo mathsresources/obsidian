@@ -4,6 +4,9 @@ tags:
   - pop_punk
   - emo
   - ep
+length: 13
+tracks: 4
+year: 2025
 ---
 
 # First Thoughts
