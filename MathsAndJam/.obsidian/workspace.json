@@ -13,15 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProjectEuler/0000 - Registration Question.md",
+                "file": "ProjectEuler/0003 - Largest Prime Factor.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "0000 - Registration Question"
+              "title": "0003 - Largest Prime Factor"
+            }
+          },
+          {
+            "id": "4b807565b0a4d5ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Albums/Spanish Love Songs - A Brief Intermission in the Flattening of Time EP.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Spanish Love Songs - A Brief Intermission in the Flattening of Time EP"
+            }
+          },
+          {
+            "id": "0b42205f647b525f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ProjectEuler/0004 - Largest Palindrome Product.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "0004 - Largest Palindrome Product"
+            }
+          },
+          {
+            "id": "cdd8e4116d448f42",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -194,16 +233,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "e14702ebeb145f0f",
+  "active": "cdd8e4116d448f42",
   "lastOpenFiles": [
-    "ProjectEuler/0001 - Multiples of Three and Five.md",
+    "ProjectEuler/0006 - Sum Square Difference.md",
+    "ProjectEuler/0005 - Smallest Multiple.md",
+    "ProjectEuler/0003 - Largest Prime Factor.md",
+    "ProjectEuler/0000 - Registration Question.md",
     "ProjectEuler/0002 - Even Fibonacci Numbers.md",
+    "ProjectEuler/0004 - Largest Palindrome Product.md",
+    "ProjectEuler/0001 - Multiples of 3 or 5.md",
+    "Albums/Dashboard Confessional - All The Truth That I Can Tell.md",
+    "Albums/Spanish Love Songs - A Brief Intermission in the Flattening of Time EP.md",
+    "Albums/Radiohead - A Moon Shaped Pool.md",
     "Drums/Drums - Kings of Leon - Use Somebody.pdf",
     "Drums/Kings of Leon - Use Somebody.md",
-    "Albums/Radiohead - A Moon Shaped Pool.md",
-    "ProjectEuler/0000 - Registration Question.md",
-    "ProjectEuler/0003 - Highest Prime Factor.md",
-    "Albums/Spanish Love Songs - A Brief Intermission in the Flattening of Time EP.md",
     "2026-03-16.md",
     "Welcome.md",
     "Albums",

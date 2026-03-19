@@ -5,6 +5,7 @@ tags:
   - prime_numbers
   - divisibility
   - factors
+  - prime_factors
 eulertime: 0.018
 ---
 

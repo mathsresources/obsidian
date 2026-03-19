@@ -28,4 +28,4 @@ euler0000()
 # Commentary:
 
 Needed when creating an account. 
-Adapted from the solution to [[0001 - Multiples of Three and Five]].
+Adapted from the solution to [[0001 - Multiples of 3 or 5]].
