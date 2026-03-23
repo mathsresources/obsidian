@@ -1,6 +1,7 @@
 ---
 date: 2026-03-19
 tags:
+  - projecteuler
   - square_numbers
 eulertime: 0.000
 ---

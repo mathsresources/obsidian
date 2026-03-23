@@ -53,10 +53,14 @@
             "id": "cdd8e4116d448f42",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "ProjectEuler/0008 - Largest Product in a Series.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "0008 - Largest Product in a Series"
             }
           }
         ],
@@ -235,13 +239,15 @@
   },
   "active": "cdd8e4116d448f42",
   "lastOpenFiles": [
+    "ProjectEuler/0007 - 10001st Prime Number.md",
     "ProjectEuler/0006 - Sum Square Difference.md",
+    "ProjectEuler/0008 - Largest Product in a Series.md",
     "ProjectEuler/0005 - Smallest Multiple.md",
     "ProjectEuler/0003 - Largest Prime Factor.md",
-    "ProjectEuler/0000 - Registration Question.md",
-    "ProjectEuler/0002 - Even Fibonacci Numbers.md",
     "ProjectEuler/0004 - Largest Palindrome Product.md",
     "ProjectEuler/0001 - Multiples of 3 or 5.md",
+    "ProjectEuler/0002 - Even Fibonacci Numbers.md",
+    "ProjectEuler/0000 - Registration Question.md",
     "Albums/Dashboard Confessional - All The Truth That I Can Tell.md",
     "Albums/Spanish Love Songs - A Brief Intermission in the Flattening of Time EP.md",
     "Albums/Radiohead - A Moon Shaped Pool.md",
