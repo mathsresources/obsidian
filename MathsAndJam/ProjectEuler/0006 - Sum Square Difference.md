@@ -3,6 +3,8 @@ date: 2026-03-19
 tags:
   - projecteuler
   - square_numbers
+  - bruteforce
+  - inelegant
 eulertime: 0.000
 ---
 
